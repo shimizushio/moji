@@ -32,8 +32,9 @@
         <category>Dungeon Fighter</category>
       </categories>
       <tags>
-        <tag>Seria (DNF)</tag>
-        <tag>Michelle Monohan (DNF)</tag>
+        <tag>Witch</tag>
+        <tag>Michelle Monohan</tag>
+        <tag>Seria Kirmin</tag>
       </tags>
   </entry>
   <entry>
@@ -90,6 +91,9 @@
         <category>同人</category>
         <category>Dungeon Fighter</category>
       </categories>
+      <tags>
+        <tag>Battle Mage</tag>
+      </tags>
   </entry>
   <entry>
     <title>绝望的北方 Stage 2</title>
@@ -114,7 +118,8 @@
         <category>Dungeon Fighter</category>
       </categories>
       <tags>
-        <tag>Michelle Monohan (DNF)</tag>
+        <tag>Witch</tag>
+        <tag>Elementalist</tag>
       </tags>
   </entry>
   <entry>
@@ -159,6 +164,9 @@
         <category>同人</category>
         <category>Dungeon Fighter</category>
       </categories>
+      <tags>
+        <tag>Witch</tag>
+      </tags>
   </entry>
   <entry>
     <title>绝望的北方 Stage 3</title>
@@ -183,6 +191,10 @@
         <category>同人</category>
         <category>Dungeon Fighter</category>
       </categories>
+      <tags>
+        <tag>Battle Mage</tag>
+        <tag>Summoner</tag>
+      </tags>
   </entry>
   <entry>
     <title>绝望的北方 Stage 4</title>
@@ -239,7 +251,8 @@
         <category>Dungeon Fighter</category>
       </categories>
       <tags>
-        <tag>Michelle Monohan (DNF)</tag>
+        <tag>Battle Mage</tag>
+        <tag>Michelle Monohan</tag>
       </tags>
   </entry>
   <entry>
@@ -318,6 +331,10 @@
         <category>同人</category>
         <category>Dungeon Fighter</category>
       </categories>
+      <tags>
+        <tag>Witch</tag>
+        <tag>Summoner</tag>
+      </tags>
   </entry>
   <entry>
     <title>强制恋爱(设定说明)</title>
@@ -360,8 +377,8 @@
         <category>Don&#39;t Starve</category>
       </categories>
       <tags>
-        <tag>Wendy (Don&#39;t Starve)</tag>
-        <tag>Wigfrid (Don&#39;t Starve)</tag>
+        <tag>Wendy</tag>
+        <tag>Wigfrid</tag>
       </tags>
   </entry>
   <entry>
@@ -467,8 +484,8 @@
         <category>Kantai Collection</category>
       </categories>
       <tags>
-        <tag>Yuudachi (Kantai Collection)</tag>
-        <tag>Yura (Kantai Collection)</tag>
+        <tag>Yuudachi</tag>
+        <tag>Yura</tag>
       </tags>
   </entry>
   <entry>
@@ -509,8 +526,8 @@
         <category>Kantai Collection</category>
       </categories>
       <tags>
-        <tag>Yuudachi (Kantai Collection)</tag>
-        <tag>Yura (Kantai Collection)</tag>
+        <tag>Yuudachi</tag>
+        <tag>Yura</tag>
       </tags>
   </entry>
   <entry>
@@ -564,8 +581,8 @@
         <category>Kantai Collection</category>
       </categories>
       <tags>
-        <tag>Ikazuchi (Kantai Collection)</tag>
-        <tag>Inazuma (Kantai Collection)</tag>
+        <tag>Ikazuchi</tag>
+        <tag>Inazuma</tag>
       </tags>
   </entry>
   <entry>
@@ -712,8 +729,8 @@
         <category>Azur Lane</category>
       </categories>
       <tags>
-        <tag>Gridley (Azur Lane)</tag>
-        <tag>Saratoga (Azur Lane)</tag>
+        <tag>Gridley</tag>
+        <tag>Saratoga</tag>
       </tags>
   </entry>
   <entry>
@@ -898,8 +915,8 @@
         <category>Pokemon</category>
       </categories>
       <tags>
-        <tag>Roxie (Pokemon)</tag>
-        <tag>Marlon (Pokemon)</tag>
+        <tag>Roxie</tag>
+        <tag>Marlon</tag>
       </tags>
   </entry>
   <entry>
@@ -1000,8 +1017,8 @@
         <category>Pokemon</category>
       </categories>
       <tags>
-        <tag>Hilda (Pokemon)</tag>
-        <tag>N (Pokemon)</tag>
+        <tag>Hilda</tag>
+        <tag>N</tag>
       </tags>
   </entry>
   <entry>
@@ -1057,8 +1074,7 @@
         <category>Pokemon</category>
       </categories>
       <tags>
-        <tag>Hilda (Pokemon)</tag>
-        <tag>Jirachi (Pokemon)</tag>
+        <tag>Hilda</tag>
       </tags>
   </entry>
   <entry>
@@ -1198,9 +1214,9 @@
         <category>Pokemon</category>
       </categories>
       <tags>
-        <tag>Hilda (Pokemon)</tag>
-        <tag>Cheren (Pokemon)</tag>
-        <tag>Bianca (Pokemon)</tag>
+        <tag>Hilda</tag>
+        <tag>Cheren</tag>
+        <tag>Bianca</tag>
       </tags>
   </entry>
   <entry>
@@ -1266,8 +1282,8 @@
         <category>Pokemon</category>
       </categories>
       <tags>
-        <tag>Shauntal (Pokemon)</tag>
-        <tag>Caitlin (Pokemon)</tag>
+        <tag>Shauntal</tag>
+        <tag>Caitlin</tag>
       </tags>
   </entry>
   <entry>
@@ -1694,9 +1710,9 @@
         <category>Pokemon</category>
       </categories>
       <tags>
-        <tag>Acerola (Pokemon)</tag>
-        <tag>Lilie (Pokemon)</tag>
-        <tag>Selene (Pokemon)</tag>
+        <tag>Acerola</tag>
+        <tag>Selene</tag>
+        <tag>Lillie</tag>
       </tags>
   </entry>
   <entry>
@@ -1778,8 +1794,8 @@
         <category>Pokemon</category>
       </categories>
       <tags>
-        <tag>Masamune (Pokenobu)</tag>
-        <tag>Shingen (Pokenobu)</tag>
+        <tag>Masamune</tag>
+        <tag>Shingen</tag>
       </tags>
   </entry>
   <entry>
@@ -1915,8 +1931,9 @@
         <category>Arknights</category>
       </categories>
       <tags>
-        <tag>Skyfire (Arknights)</tag>
-        <tag>Eyjafjalla (Arknights)</tag>
+        <tag>Skyfire</tag>
+        <tag>Amiya</tag>
+        <tag>Doctor</tag>
       </tags>
   </entry>
   <entry>
@@ -1966,8 +1983,8 @@
         <category>Arknights</category>
       </categories>
       <tags>
-        <tag>Skyfire (Arknights)</tag>
-        <tag>Eyjafjalla (Arknights)</tag>
+        <tag>Skyfire</tag>
+        <tag>Eyjafjalla</tag>
       </tags>
   </entry>
   <entry>
@@ -2020,9 +2037,9 @@
         <category>Arknights</category>
       </categories>
       <tags>
-        <tag>Skyfire (Arknights)</tag>
-        <tag>Eyjafjalla (Arknights)</tag>
-        <tag>Provence (Arknights)</tag>
+        <tag>Skyfire</tag>
+        <tag>Eyjafjalla</tag>
+        <tag>Provence</tag>
       </tags>
   </entry>
   <entry>
@@ -2058,8 +2075,8 @@
         <category>Arknights</category>
       </categories>
       <tags>
-        <tag>Skyfire (Arknights)</tag>
-        <tag>Eyjafjalla (Arknights)</tag>
+        <tag>Skyfire</tag>
+        <tag>Eyjafjalla</tag>
       </tags>
   </entry>
   <entry>
@@ -2084,8 +2101,8 @@
         <category>Arknights</category>
       </categories>
       <tags>
-        <tag>Frostleaf (Arknights)</tag>
-        <tag>Frostnova (Arknights)</tag>
+        <tag>Frostleaf</tag>
+        <tag>Frostnova</tag>
       </tags>
   </entry>
   <entry>
@@ -2124,8 +2141,8 @@
         <category>Arknights</category>
       </categories>
       <tags>
-        <tag>Skyfire (Arknights)</tag>
-        <tag>Eyjafjalla (Arknights)</tag>
+        <tag>Skyfire</tag>
+        <tag>Eyjafjalla</tag>
       </tags>
   </entry>
   <entry>
@@ -2142,8 +2159,8 @@
         <category>Arknights</category>
       </categories>
       <tags>
-        <tag>Skyfire (Arknights)</tag>
-        <tag>Eyjafjalla (Arknights)</tag>
+        <tag>Skyfire</tag>
+        <tag>Eyjafjalla</tag>
       </tags>
   </entry>
   <entry>
@@ -2194,8 +2211,8 @@
         <category>Arknights</category>
       </categories>
       <tags>
-        <tag>Skyfire (Arknights)</tag>
-        <tag>Eyjafjalla (Arknights)</tag>
+        <tag>Skyfire</tag>
+        <tag>Eyjafjalla</tag>
       </tags>
   </entry>
   <entry>
@@ -2244,8 +2261,8 @@
         <category>Arknights</category>
       </categories>
       <tags>
-        <tag>Skyfire (Arknights)</tag>
-        <tag>Eyjafjalla (Arknights)</tag>
+        <tag>Skyfire</tag>
+        <tag>Eyjafjalla</tag>
       </tags>
   </entry>
   <entry>
@@ -3419,6 +3436,7 @@
       <categories>
         <category>同人</category>
         <category>莲家</category>
+        <category>Mahjong Soul</category>
       </categories>
       <tags>
         <tag>Renki</tag>
